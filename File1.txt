@@ -2,7 +2,7 @@ Hello Welcome To Git
 update or changed feturs of git...
 change to file status
 change to file1
-
+change to file1 second time
 
 I am fixing bug
 
