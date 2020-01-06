@@ -1,3 +1,7 @@
 Hello Welcome To Git
 update or changed feturs of git...
 change to file status
+
+
+
+I am fixing bug
