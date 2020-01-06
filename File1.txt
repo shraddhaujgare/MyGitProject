@@ -5,3 +5,6 @@ change to file status
 
 
 I am fixing bug
+
+
+this bug2 will be fixed now
