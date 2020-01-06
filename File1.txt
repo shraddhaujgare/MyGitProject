@@ -7,4 +7,7 @@ change to file status
 I am fixing bug
 
 
-  code changed added by other team member on remote server
+
+  
+
+this bug2 will be fixed now
