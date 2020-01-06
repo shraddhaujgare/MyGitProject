@@ -4,13 +4,16 @@ change to file status
 change to file1
 change to file1 second time
 
-I am fixing bug
+I am fixing= bug
 
 
 
   
 
-this bug2 will be fixed now
+this bug2 will be fixed= now
 
 
 This is my remote modification
+
+
+modification with conflict
